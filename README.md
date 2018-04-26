@@ -11,4 +11,4 @@ This github repository is a mirror. To install the module, please use the extens
 - Translations (7): English (EN), French (FR), German (DE), Italian (IT), Portuguese (pt-PT/pt-BR), Spanish (ES)
 - License: GNU GPL 2
 
-If you like, take some of your time to improve the translations, go to https://goo.gl/5zFfFy.
+If you like, take some of your time to improve the translations, go to https://bit.ly/2HyCCEc.
